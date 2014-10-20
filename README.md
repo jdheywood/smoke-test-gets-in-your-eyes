@@ -9,10 +9,13 @@ This is my first attempt at a simple website UI smoke test automation framework,
 * Install Bundler; $ gem install bundler
 * Navigate to the root of your cloned repo
 * Use bundler to install the projects dependencies; $ bundle install
-* Install the Selenium IEDriverServer from here; http://selenium-release.storage.googleapis.com/index.html
+* Install the Selenium IEDriverServer from here; http://selenium-release.storage.googleapis.com/index.html - add to a location on your hard drive that is listed in your PATH environment variable, Ruby<version>/bin is as good a place as any
 * Install FireFox on your machine, if you do not yet have it installed
-* Install the Selenium chrome driver from here; http://chromedriver.storage.googleapis.com/index.html
+* Install the Selenium chrome driver from here; http://chromedriver.storage.googleapis.com/index.html - add to a location on your hard drive that is listed in your PATH environment variable, Ruby<version>/bin is as good a place as any
 * TO DO....
+* TO DO....
+* TO DO....
+
 
 ### Contribution guidelines ###
 
