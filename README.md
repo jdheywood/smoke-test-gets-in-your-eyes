@@ -15,10 +15,10 @@ This is my first attempt at a simple website UI smoke test automation framework,
 * Download and install Phantom.js; http://phantomjs.org/download.html place the executable somewhere on your PATH
 * Open up an Interactive Ruby Shell window, either from your Start Menu, or from a Command Window type irb
 * Run one of the example ruby scripts; 
-** ruby quick-start.rb
-** ruby driver.rb
-** ruby element.rb
-** ruby watir-webdriver.rb
+* * ruby quick-start.rb
+* * ruby driver.rb
+* * ruby element.rb
+* * ruby watir-webdriver.rb
 * TO DO....
 * TO DO....
 
