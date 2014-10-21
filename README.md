@@ -5,6 +5,8 @@ This is my first attempt at a simple website UI smoke test automation framework,
 ### How do I get set up? ###
 
 * Clone this repository
+* Checkout the dev branch
+* Create your own feature branch from this
 * Install Ruby 1.9.3; If on Windows use the installer, it's easier: http://rubyinstaller.org/downloads/ if on Linux or Mac have at it. If you have multiple versions of Ruby then you are a mad man, but this may help on Windows; https://github.com/vertiginous/pik or for Linux and Mac; http://rvm.io/
 * Install Bundler; $ gem install bundler
 * Navigate to the root of your cloned repo
