@@ -14,7 +14,7 @@ This is my first attempt at a simple website UI smoke test automation framework,
 * Install the Selenium IEDriverServer from here; http://selenium-release.storage.googleapis.com/index.html - add to a location on your hard drive that is listed in your PATH environment variable, Ruby<version>/bin is as good a place as any
 * Install FireFox on your machine, if you do not yet have it installed
 * Install the Selenium chrome driver from here; http://chromedriver.storage.googleapis.com/index.html - add to a location on your hard drive that is listed in your PATH environment variable, Ruby<version>/bin is as good a place as any
-* Download and install Phantom.js; http://phantomjs.org/download.html place the executable somewhere on your PATH
+* Download and install Phantom.js; http://phantomjs.org/download.html place the executable somewhere on your PATH, again the Ruby bin folder is a good option
 * Open up an Interactive Ruby Shell window, either from your Start Menu, or from a Command Window type irb
 * Run one of the example ruby scripts; 
 * * ruby quick-start.rb
