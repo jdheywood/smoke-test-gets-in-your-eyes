@@ -21,12 +21,15 @@ This is my first attempt at a simple website UI smoke test automation framework,
 * * ruby driver.rb
 * * ruby element.rb
 * * ruby watir-webdriver.rb
+* * ruby browserstack-demo.rb
+* TO DO....
 * TO DO....
 * TO DO....
 
 
 ### Contribution guidelines ###
 
+* TO DO....
 * Writing tests
 * Code review
 * Other guidelines
