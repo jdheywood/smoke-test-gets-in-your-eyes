@@ -1,6 +1,11 @@
 require "selenium-webdriver"
+require "./Config/base_config"
+
+config = BaseConfig.Get()
+
 browser = Selenium::WebDriver.for :firefox
-browser.get "https://www.google.com/"
+
+browser.get  config["baseUrl"]
 p browser.current_url
 browser.find_element(link_text: "Use Google.com").click
 browser.find_element(link_text: "Images").click
