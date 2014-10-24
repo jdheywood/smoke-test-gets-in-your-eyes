@@ -2,6 +2,12 @@ Welcome Stranger!
 
 This is my first attempt at a simple website UI smoke test automation framework, using Ruby, Watir and Cucumber, good luck!
 
+### How do I get set up? Windows edition ###
+* Clone this repository
+* Ensure that Chocolatey is installed on your system : https://chocolatey.org/
+* Run \Windows-Getting-Started\runme-first-Windows.bat from your local machine as admin (Right click on file > Run as Administrator)
+* Running the above batch file will ensure the correct version of Ruby is installed, and their necessary dependencies are also installed (including Firefox if not installed)
+
 ### How do I get set up? ###
 
 * Clone this repository
