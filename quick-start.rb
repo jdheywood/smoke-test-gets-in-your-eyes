@@ -8,4 +8,4 @@ p browser.title
 browser.find_element(name: "q").send_keys "book"
 browser.find_element(name: "btnG").click
 p browser.find_elements(tag_name: "img").size
-browser.close
+browser.quit
