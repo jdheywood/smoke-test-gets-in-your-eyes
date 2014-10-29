@@ -6,6 +6,10 @@ ECHO Trying to install the Bundler Gem (Ruby)
 CALL gem install bundler
 ECHO Installed bundler Gem
 
+ECHO Trying to install ANSICON 
+CALL choco install ansicon
+ECHO Installed ANSICON
+
 ECHO Switching to root directory
 CD ..\
 

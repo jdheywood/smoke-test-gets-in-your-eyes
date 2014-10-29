@@ -11,6 +11,7 @@ end
 
 And(/^I submit$/) do
   @element.submit
+  puts "submitted step to google search"
 end
 
 Then /^I should see title "([^"]*)"$/ do |title|
