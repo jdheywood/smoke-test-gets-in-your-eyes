@@ -1,5 +1,10 @@
 require "selenium-webdriver"
 
+default_profile = Selenium::WebDriver::Firefox::Profile.from_name "default"
+default_profile['app.update.auto'] = false
+default_profile['app.update.enabled'] = false
+default_profile.native_events = false
+
 browser = Selenium::WebDriver.for :firefox
 
 Before do |scenario|
