@@ -1,7 +1,10 @@
 require 'rspec'
+require_relative '../../Config/base_config'
+
+config = BaseConfig.Get
 
 Given(/^I am on Google$/) do
-  @browser.navigate.to "http://www.google.com"
+  @browser.navigate.to config["baseUrl"]
 end
 
 When(/^I fill in "([^"]*)" found by "([^"]*)" with "([^"]*)"$/) do |value, type, keys|
