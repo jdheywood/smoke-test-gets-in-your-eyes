@@ -8,3 +8,4 @@ gem 'watir-webdriver'
 gem 'rspec'
 gem 'syntax'
 gem "parallel_tests"
+gem 'rest-client'
