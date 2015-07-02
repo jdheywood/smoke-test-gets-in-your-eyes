@@ -43,4 +43,5 @@ This is my first attempt at a simple website UI smoke test automation framework,
 
 ### Who do I talk to? ###
 
-* Repo owner or admin: jdheywood@yahoo.co.uk
+* Repo owner or admin: jdheywood@gmail.com
+* Many thanks to Tony Das for his contributions :-)
